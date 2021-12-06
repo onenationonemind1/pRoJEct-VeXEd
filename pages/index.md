@@ -17,6 +17,9 @@ permalink: /
 <br>
 > pRoJEct-ChAnG hUnE, NaGyUnG's a personal-website.
 
+
+
+
 ## Features
 
 - Highly customizable with user-friendly hacker-like design.
