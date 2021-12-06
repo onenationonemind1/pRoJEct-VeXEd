@@ -15,7 +15,7 @@ permalink: /
 # PROJECT VeXEd - HACKER-STYLE PERSONAL HOMEPAGE
 
 <br>
-> pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
+> pRoJEct-ChAnG hUnE, NaGyUnG's a personal-website.
 
 ## Features
 
