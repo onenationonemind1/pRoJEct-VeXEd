@@ -12,7 +12,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT VeXEd - 창훈 , 나경 커플 블로그.
+# 창훈 , 나경 커플 블로그.
 
 <br>
 > pRoJEct-ChAnG hUnE, NaGyUnG's a personal-website.
