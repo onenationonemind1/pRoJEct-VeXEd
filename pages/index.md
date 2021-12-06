@@ -16,7 +16,11 @@ permalink: /
 
 <br>
 > pRoJEct-ChAnG hUnE, NaGyUnG's a personal-website.
+---
+title: Our Great Planet!
+---
 
+![img-smpl]({{site.url}}{{site.baseurl}}/src/assets/img/img-sample.jpg)
 
 
 
